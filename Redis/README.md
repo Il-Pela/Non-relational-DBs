@@ -39,6 +39,14 @@ And substitute them into redisClient.js file accordingly.
 ```bash
 npm install
 ```
+Create a `.env` file in root directory, with this content:
+
+```
+REDIS_USERNAME=your_username
+REDIS_PASSWORD=your_password
+REDIS_HOST=your_host
+REDIS_PORT=your_port
+```
 
 ---
 
