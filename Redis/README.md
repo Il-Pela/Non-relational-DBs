@@ -71,8 +71,8 @@ Default Behavior:
 * Automatically resets after time window
 
 Try to:
-- increate the number of max request
-- reduce the TTL
+- increment the number of max request
+- reduce/augment the TTL
 - ...
 
 ---
