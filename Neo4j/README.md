@@ -81,7 +81,6 @@ src/
  ├── neo4jClient.js
  ├── routes.js
  ├── graphService.js         ← 🧪 YOUR TASK
- ├── graphService.solution.js
  └── public/
      └── index.html
 ```
